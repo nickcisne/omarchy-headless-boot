@@ -1,0 +1,11 @@
+# Editor and OS files
+.DS_Store
+desktop.ini
+Thumbs.db
+*.swp
+*.swo
+*~
+
+# Backup and patch files
+*.bak
+*.orig
